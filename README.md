@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi 👋
+<p align="center">
+  <a href="https://github.com/JustNikhill/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines= CO+Founder+at+GrowMore;Freelancer;Tennis+player+;18+y%2Fo+developer"></a>
+</p>
 
-### I dont want to describe myself here 
-so leave, kid
 
 ###  langs
 ![langs](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
