@@ -1,6 +1,6 @@
 ### Hi 👋
 <p align="center">
-  <a href="https://github.com/JustNikhill/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines= CO+Founder+at+GrowMore;Freelancer;Tennis+player+;18+y%2Fo+developer"></a>
+  <a href="https://github.com/RandomBros/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines= CO+Founder+at+GrowMore;Freelancer;Tennis+player+;18+y%2Fo+developer"></a>
 </p>
 
 
